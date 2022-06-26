@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: eu.simonbinder:sqlite3-native-library:3.38.5@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a983e99f8f40570e54bcda159d11ac14/transformed/jetified-sqlite3-native-library-3.38.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a983e99f8f40570e54bcda159d11ac14/transformed/jetified-sqlite3-native-library-3.38.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
